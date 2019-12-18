@@ -4,7 +4,7 @@ public class MaquinaGolosinas {
 
     private int precioBebida;
     private int stock;
-    private EstadoMaquina estadoActual;
+    private EstadoMaquina estadoActual;// <------ actual
     private EstadoMaquina estadoSinDinero;
     private EstadoMaquina estadoConDinero;
     private EstadoMaquina estadoSinStock;
